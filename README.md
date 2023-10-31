@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👼
 
-<!--
-**gabe021/gabe021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel De Souza Oliveira
 
-Here are some ideas to get you started:
+- Utilizo a plataforma alura para estudar linguagens de programação.
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projtos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar contato comigo📫
+  gabriel.souza.oliveira03@escola.pr.gov.br
+
+  ![](https://media.tenor.com/VDo3Qw_RYeQAAAAd/g30-muhammetdmr016.gif)
+
